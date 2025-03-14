@@ -15,7 +15,7 @@ Este es un script en **Go** para mapear una red, detectar hosts activos y estima
 ## ⚙️ Instalación
 1. Clona este repositorio o copia el código en un archivo:
    ```sh
-   git clone <repo_url>
+   git clone https://github.com/fervigz090/NetworkMapper.git
    cd NetworkMapper
    ```
 2. Compila el script:
